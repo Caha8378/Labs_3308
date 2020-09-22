@@ -1,0 +1,165 @@
+Sep 19 02:26:39 carter-VirtualBox systemd-resolved[451]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 19 02:26:39 carter-VirtualBox systemd-resolved[451]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 13:05:08 carter-VirtualBox systemd[1]: Condition check resulted in Process error reports when automatic reporting is enabled (file watch) being skipped.
+Sep 21 13:05:08 carter-VirtualBox kernel: [    1.247969] RAS: Correctable Errors collector initialized.
+Sep 21 13:05:08 carter-VirtualBox kernel: [    2.836894] EXT4-fs (sda5): re-mounted. Opts: errors=remount-ro
+Sep 21 13:05:08 carter-VirtualBox kernel: [    3.037195] [drm:vmw_host_log [vmwgfx]] *ERROR* Failed to send host log message.
+Sep 21 13:05:08 carter-VirtualBox kernel: [    3.039616] [drm:vmw_host_log [vmwgfx]] *ERROR* Failed to send host log message.
+Sep 21 13:05:08 carter-VirtualBox thermald[531]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Sep 21 13:05:08 carter-VirtualBox thermald[531]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Sep 21 13:05:08 carter-VirtualBox thermald[531]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Sep 21 13:05:10 carter-VirtualBox NetworkManager[492]: <warn>  [1600715110.7511] Error: failed to open /run/network/ifstate
+Sep 21 13:05:11 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 13:05:13 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 13:05:17 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 13:05:21 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 13:05:21 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 13:05:26 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 13:05:27 carter-VirtualBox /usr/lib/gdm3/gdm-x-session[896]: #011(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+Sep 21 13:05:30 carter-VirtualBox gnome-session-c[1182]: Error creating FIFO: File exists
+Sep 21 13:05:40 carter-VirtualBox gnome-shell[1216]: Error looking up permission: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for geolocation
+Sep 21 13:05:44 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 13:05:54 carter-VirtualBox pulseaudio[882]: GetManagedObjects() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+Sep 21 13:06:15 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 13:07:19 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 13:09:27 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 13:13:43 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 13:18:43 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 13:23:44 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 13:28:43 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 13:33:43 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 13:38:43 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 13:43:43 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 13:48:44 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 13:53:43 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 13:58:44 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 14:03:44 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 14:08:43 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 14:13:46 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 14:18:44 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 14:23:44 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 14:28:43 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 14:33:43 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 14:38:43 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 14:43:43 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 14:48:45 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 14:53:43 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 14:58:43 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 15:01:35 carter-VirtualBox gnome-shell[1216]: error: Unable to lock: Lock was blocked by an application
+Sep 21 15:03:43 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 15:04:16 carter-VirtualBox gnome-shell[1216]: JS ERROR: TypeError: area is null#012padArea@resource:///org/gnome/shell/ui/workspace.js:1101:9#012_updateWindowPositions@resource:///org/gnome/shell/ui/workspace.js:1334:20#012_realRecalculateWindowPositions@resource:///org/gnome/shell/ui/workspace.js:1311:14#012_recalculateWindowPositions/this._positionWindowsId<@resource:///org/gnome/shell/ui/workspace.js:1286:18
+Sep 21 15:08:43 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 15:12:16 carter-VirtualBox systemd-resolved[447]: message repeated 4 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Sep 21 15:13:43 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 15:19:10 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 15:24:10 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 15:29:10 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 15:34:10 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 15:39:10 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 15:44:09 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 15:49:09 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 15:54:11 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 15:59:10 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 16:04:10 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 16:07:24 carter-VirtualBox gnome-shell[2640]: ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Sep 21 16:09:10 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 16:14:09 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 16:19:09 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 16:24:09 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 16:25:19 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 16:25:20 carter-VirtualBox systemd-resolved[447]: message repeated 3 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Sep 21 16:31:23 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 16:36:23 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 16:41:23 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 16:46:23 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 16:51:23 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 16:56:23 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 17:01:23 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 17:15:10 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 17:20:10 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 17:25:10 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 17:30:10 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 17:35:10 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 17:40:10 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 17:45:10 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 17:50:10 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 17:55:10 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 18:00:10 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 19:49:54 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 19:54:53 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 19:59:53 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 20:38:43 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 21:01:20 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 21:06:20 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 21:11:20 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 21:16:20 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 21:29:33 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 21:34:33 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 21:46:41 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 21:56:49 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 22:06:06 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 22:11:06 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 22:16:07 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 22:21:06 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 22:39:43 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 22:44:43 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 22:49:43 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 22:54:43 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 23:00:48 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 23:07:23 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 23:16:01 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 21 23:21:01 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 00:10:14 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 00:15:14 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 00:33:20 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 00:38:20 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 00:43:21 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 00:48:20 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 00:53:21 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 00:58:20 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 01:03:22 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 01:08:20 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 01:13:20 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 01:18:20 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 01:23:21 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 01:28:20 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 01:33:20 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 01:38:20 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 01:45:01 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 01:50:01 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 12:09:18 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 12:14:19 carter-VirtualBox systemd-resolved[447]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 12:18:50 carter-VirtualBox kernel: [    4.943051] RAS: Correctable Errors collector initialized.
+Sep 22 12:18:50 carter-VirtualBox kernel: [   13.443620] EXT4-fs (sda5): re-mounted. Opts: errors=remount-ro
+Sep 22 12:18:50 carter-VirtualBox kernel: [   14.272665] [drm:vmw_host_log [vmwgfx]] *ERROR* Failed to send host log message.
+Sep 22 12:18:50 carter-VirtualBox kernel: [   14.291731] [drm:vmw_host_log [vmwgfx]] *ERROR* Failed to send host log message.
+Sep 22 12:18:50 carter-VirtualBox systemd[1]: Condition check resulted in Process error reports when automatic reporting is enabled (file watch) being skipped.
+Sep 22 12:18:50 carter-VirtualBox thermald[532]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Sep 22 12:18:50 carter-VirtualBox thermald[532]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Sep 22 12:18:50 carter-VirtualBox thermald[532]: [WARN]error: could not parse file /etc/thermald/thermal-conf.xml
+Sep 22 12:18:53 carter-VirtualBox NetworkManager[494]: <warn>  [1600798733.1497] Error: failed to open /run/network/ifstate
+Sep 22 12:18:54 carter-VirtualBox systemd-resolved[451]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 12:18:56 carter-VirtualBox systemd-resolved[451]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 12:19:00 carter-VirtualBox systemd-resolved[451]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 12:19:03 carter-VirtualBox systemd-resolved[451]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 12:19:03 carter-VirtualBox systemd-resolved[451]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 12:19:08 carter-VirtualBox /usr/lib/gdm3/gdm-x-session[906]: #011(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
+Sep 22 12:19:08 carter-VirtualBox systemd-resolved[451]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 12:19:12 carter-VirtualBox gnome-session-c[1188]: Error creating FIFO: File exists
+Sep 22 12:19:19 carter-VirtualBox gnome-shell[1216]: Error looking up permission: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for geolocation
+Sep 22 12:19:25 carter-VirtualBox systemd-resolved[451]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 12:19:35 carter-VirtualBox pulseaudio[883]: GetManagedObjects() failed: org.freedesktop.DBus.Error.NoReply: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+Sep 22 12:19:45 carter-VirtualBox systemd-resolved[451]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 12:19:46 carter-VirtualBox systemd-resolved[451]: message repeated 3 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]
+Sep 22 12:19:58 carter-VirtualBox systemd-resolved[451]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 12:20:31 carter-VirtualBox gnome-shell[1216]: JS ERROR: TypeError: area is null#012padArea@resource:///org/gnome/shell/ui/workspace.js:1101:9#012_updateWindowPositions@resource:///org/gnome/shell/ui/workspace.js:1334:20#012_realRecalculateWindowPositions@resource:///org/gnome/shell/ui/workspace.js:1311:14#012_recalculateWindowPositions/this._positionWindowsId<@resource:///org/gnome/shell/ui/workspace.js:1286:18
+Sep 22 12:21:02 carter-VirtualBox systemd-resolved[451]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 12:23:12 carter-VirtualBox systemd-resolved[451]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 12:27:25 carter-VirtualBox systemd-resolved[451]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 12:32:27 carter-VirtualBox systemd-resolved[451]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 12:37:26 carter-VirtualBox systemd-resolved[451]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 12:42:27 carter-VirtualBox systemd-resolved[451]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 12:47:26 carter-VirtualBox systemd-resolved[451]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 12:52:25 carter-VirtualBox systemd-resolved[451]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 12:57:26 carter-VirtualBox systemd-resolved[451]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+Sep 22 13:02:25 carter-VirtualBox systemd-resolved[451]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
